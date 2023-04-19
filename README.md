@@ -10,7 +10,7 @@ Here are some of my notable Github repositories that showcase my skills and inte
 
 [javascript-skills-test](https://github.com/zeckdude/javascript-skills-test) is a tool I created to assess the skills of a candidate for a JavaScript position or evaluate and improve your own skills. It includes a range of exercises to test proficiency in various JavaScript concepts.
 
-### 2) code-references 🔍
+### 2) code-references 📚
 
 [code-references](https://github.com/zeckdude/code-references) is a list of helpful code snippets for the programming languages I use often. It's a handy reference for me, and I hope it can be helpful for others as well.
 
