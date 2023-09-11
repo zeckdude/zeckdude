@@ -32,3 +32,7 @@ As an author of clean, maintainable code, I am passionate about delivering user-
 
 Feel free to explore my repositories and [reach out to me](chrisseckler@gmail.com) for any questions or collaborations. Thank you for visiting!
 
+### Github Stats
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=zeckdude&count_private=true&theme=tokyonight&hide=contribs,prs)
+
