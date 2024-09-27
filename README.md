@@ -32,6 +32,10 @@ As an author of clean, maintainable code, I am passionate about delivering user-
 
 Feel free to explore my repositories and [reach out to me](chrisseckler@gmail.com) for any questions or collaborations. Thank you for visiting!
 
+### Skills
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 8px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript" style="margin-right: 8px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Framer_Motion-0085FF?logo=framer&logoColor=white" height="28" alt="Framer Motion" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Material_UI-007FFF?logo=material-ui&logoColor=white" height="28" alt="Material-UI" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 8px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 8px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 8px"> <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" height="28" alt="React Native" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" height="28" alt="Jest" style="margin-right: 8px"></div>
+
 ### Github Stats
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=zeckdude&count_private=true&theme=tokyonight&hide=contribs,prs)
